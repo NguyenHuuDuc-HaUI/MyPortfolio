@@ -1,22 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\",
+  "WorkspaceRootPath": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\backend\\myportfolio\\myportfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VueJSDevelop\\Project\\MyPortfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\backend\\myportfolio\\myportfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\myportfolio\\backend\\myportfolio\\myportfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\backend\\myportfolio\\myportfolio.api\\myportfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\myportfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\myportfolio\\backend\\myportfolio\\myportfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\backend\\myportfolio\\myportfolio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E003B9A1-300B-49C1-B2FA-DD78F98B097F}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\myportfolio\\backend\\myportfolio\\myportfolio.api\\myportfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\myportfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|d:\\vuejsdevelop\\project\\myportfolio\\backend\\myportfolio\\myportfolio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCDE14B-6E6C-53EE-8634-F64EAEE95E32}|MyPortfolio.API\\MyPortfolio.API.csproj|solutionrelative:myportfolio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +29,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MyPortfolio.API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MyPortfolio.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-16T18:27:02.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyPortfolio.API",
-              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\MyPortfolio.API.csproj",
-              "RelativeDocumentMoniker": "MyPortfolio.API\\MyPortfolio.API.csproj",
-              "ToolTip": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\MyPortfolio.API.csproj",
-              "RelativeToolTip": "MyPortfolio.API\\MyPortfolio.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-16T18:25:51.804Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -65,28 +42,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\MyPortfolio\\.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\.gitignore",
+              "ToolTip": "D:\\VueJSDevelop\\Project\\MyPortfolio\\.gitignore",
+              "RelativeToolTip": "..\\..\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-16T19:31:41.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyPortfolio.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyPortfolio.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T18:27:02.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyPortfolio.API.csproj",
+              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\MyPortfolio.API.csproj",
+              "RelativeDocumentMoniker": "MyPortfolio.API\\MyPortfolio.API.csproj",
+              "ToolTip": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\MyPortfolio.API.csproj",
+              "RelativeToolTip": "MyPortfolio.API\\MyPortfolio.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T18:25:51.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\Program.cs",
+              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\Program.cs",
               "RelativeDocumentMoniker": "MyPortfolio.API\\Program.cs",
-              "ToolTip": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\Program.cs*",
-              "RelativeToolTip": "MyPortfolio.API\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\Program.cs",
+              "RelativeToolTip": "MyPortfolio.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T18:21:19.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "MyPortfolio.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\VueJSDevelop\\Project\\Backend\\MyPortfolio\\MyPortfolio.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\VueJSDevelop\\Project\\MyPortfolio\\Backend\\MyPortfolio\\MyPortfolio.API\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "MyPortfolio.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:18:44.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T18:18:44.128Z"
             }
           ]
         },
